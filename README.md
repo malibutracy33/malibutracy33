@@ -1,4 +1,4 @@
-# Hi, I'm Tracy 👋
+## Hi, I'm Tracy 👋
 
 Full Stack Developer
 
